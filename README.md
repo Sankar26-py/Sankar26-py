@@ -1,29 +1,81 @@
-# Hi I'm Sankar
+# 👋 Hi, I'm Sankar K  
 
-Python Developer at TATA Consultancy Services</br>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sankar-k-26s09s1999) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaliyannansankar1999@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sankar26-py&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sankar26-py&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankar26-py&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sankar26-py&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sankar26-py&limit=5&theme=radical&combine_all_yearly_contributions=true)
+💼 Python Backend Developer at Tata Consultancy Services  
+📍 Chennai, India  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sankar26-py&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me  
 
+Results-driven **Python Backend Developer** with 3+ years of experience building scalable Django applications and RESTful APIs.
 
+- ⚡ Improved system performance by **30%** through backend optimization  
+- 🤖 Reduced manual effort by **40%** using Python automation  
+- 🧠 Strong focus on clean architecture, maintainability & scalability  
+- 🔍 Skilled in database query optimization & REST API design  
+
+Currently pursuing **Master of Computer Applications (MCA)** while working full-time.
+
+---
+
+## 🛠 Tech Stack  
+
+### 💻 Backend & Languages  
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
+
+### 🗄 Databases  
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+
+### 🔧 Tools & Practices  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+
+- RESTful API Design  
+- Agile/Scrum  
+- Code Refactoring  
+- Database Query Optimization  
+
+---
+
+## 🏢 Professional Experience  
+
+### Python Django Developer  
+**Tata Consultancy Services** | Sep 2022 – Present  
+
+- Architected and developed Django-based web applications  
+- Designed scalable RESTful APIs for seamless frontend-backend integration  
+- Built workflow tracking systems improving performance by **30%**  
+- Automated data pipelines reducing manual effort by **40%**  
+- Implemented Git branching strategies & conducted code reviews  
+- Ensured backend best practices: scalability, security & maintainability  
+
+---
+
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=Sankar26-py&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Sankar26-py&theme=transparent&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankar26-py&theme=transparent&hide_border=false&layout=compact)
+
+---
+
+## 🏆 Achievements  
+
+- 🏅 Certificate of Appreciation – Outstanding Project Delivery  
+- 🏅 Service & Commitment Award – High Performance & Dedication  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sankar-k-26s09s1999)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaliyannansankar1999@gmail.com)
+
+---
+
+⭐️ *Open to Backend Python / Django opportunities*
