@@ -24,10 +24,11 @@ Results-driven **Python Backend Developer** with 3+ years of experience building
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/Django%20REST-ff1709?style=flat&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
+
 
 ### 🗄 Databases  
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-336791?style=flat&logo=postgresql&logoColor=white)
 
 ### 🔧 Tools & Practices  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
