@@ -14,8 +14,6 @@ Results-driven **Python Backend Developer** with 3+ years of experience building
 - 🧠 Strong focus on clean architecture, maintainability & scalability  
 - 🔍 Skilled in database query optimization & REST API design  
 
-🎓 Master of Computer Applications (MCA) – Completed January 2025  
-
 ---
 
 ## 🛠 Tech Stack  
