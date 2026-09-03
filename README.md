@@ -139,4 +139,4 @@ I build backend systems that **scale** — engineering Django-powered REST APIs,
 
 ---
 
-⭐️ *Open to Python Django Developer, Backend Engineer & related opportunities*
+
