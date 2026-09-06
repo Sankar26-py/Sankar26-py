@@ -100,7 +100,6 @@ I build backend systems that **scale** — engineering Django-powered REST APIs,
 
 ![Streak](https://streak-stats.demolab.com/?user=Sankar26-py&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-> 💡 Full stats card coming soon — deploying own Vercel instance
 
 ---
 
