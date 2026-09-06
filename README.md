@@ -3,8 +3,7 @@
 💼 System Engineer (Python Django Developer) at Tata Consultancy Services
 📍 Chennai, India | 🌐 [Portfolio](https://Sankar26-py.github.io) | 🔗 [LinkedIn](https://linkedin.com/in/sankar-django-dev)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sankar26-py&color=00e5a0&style=flat&label=Profile+Views)
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSankar26-py&count_bg=%2300E5A0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors+Today&edge_flat=false)
+![Profile Views](https://komarev.com/ghpvc/?username=Sankar26-py&color=00e5a0&style=flat-square&label=Profile+Views&abbreviated=true)
 
 ---
 
