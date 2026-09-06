@@ -100,9 +100,15 @@ I build backend systems that **scale** — engineering Django-powered REST APIs,
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sankar26-py&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Sankar26-py&theme=transparent&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankar26-py&theme=transparent&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sankar26-py&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankar26-py&theme=transparent&hide_border=true&layout=compact&langs_count=6" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sankar26-py&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
+</p>
 
 ---
 
@@ -142,3 +148,4 @@ I build backend systems that **scale** — engineering Django-powered REST APIs,
 
 ---
 
+⭐️ *Open to Python Django Developer, Backend Engineer & related opportunities*
