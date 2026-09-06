@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Sankar K
+
 💼 System Engineer (Python Django Developer) at Tata Consultancy Services
 📍 Chennai, India | 🌐 [Portfolio](https://Sankar26-py.github.io) | 🔗 [LinkedIn](https://linkedin.com/in/sankar-django-dev)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sankar26-py&color=00e5a0&style=flat&label=Profile+Views)
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSankar26-py&count_bg=%2300E5A0&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Visitors+Today&edge_flat=false)
 
 ---
 
 ## 🚀 About Me
 
-Results-driven **Python Backend Developer** with **3.6+ years** at Tata Consultancy Services, progressing from Graduate Trainee to **System Engineer** through consistent technical delivery.
+Results-driven **Python Backend Developer** with **4 years** at Tata Consultancy Services, progressing from Graduate Trainee to **System Engineer** through consistent technical delivery.
 
 I build backend systems that **scale** — engineering Django-powered REST APIs, Redis caching strategies, and Celery async pipelines that deliver measurable outcomes in production.
 
@@ -15,7 +19,7 @@ I build backend systems that **scale** — engineering Django-powered REST APIs,
 - 🚀 Architected and delivered **5+ Django REST API services** in production
 - 📈 Promoted **4 levels in 3 years** — Graduate Trainee → Programmer → ASE → System Engineer
 - 🎓 MCA from SRMIST with **9.54 CGPA** (while working full-time at TCS)
-- ☁️ Currently preparing for **Microsoft Azure Developer Associate (AZ-204)**
+- ☁️ Currently preparing for **AWS Cloud Practitioner CLF-C02 exam**
 
 ---
 
@@ -46,7 +50,7 @@ I build backend systems that **scale** — engineering Django-powered REST APIs,
 
 ## 🏢 Professional Experience
 
-### 🔵 Tata Consultancy Services — Chennai, India | Sep 2022 – Present (3 yrs 8 mos)
+### 🔵 Tata Consultancy Services — Chennai, India | Sep 2022 – Present (4 yrs)
 
 | Role | Period |
 |------|--------|
@@ -127,7 +131,7 @@ I build backend systems that **scale** — engineering Django-powered REST APIs,
 
 - 🐍 **Complete Python Bootcamp — Zero to Hero** · Udemy · Jun 2024
 - 🗄️ **Oracle Database 12c: Basic SQL** · LinkedIn · Apr 2024
-- ☁️ **Microsoft Azure Developer Associate (AZ-204)** · *In Progress*
+- ☁️ **AWS Cloud Practitioner CLF-C02** · *In Progress*
 
 ---
 
@@ -138,5 +142,4 @@ I build backend systems that **scale** — engineering Django-powered REST APIs,
 [![Portfolio](https://img.shields.io/badge/Portfolio-%2300e5a0.svg?logo=githubpages&logoColor=black)](https://Sankar26-py.github.io)
 
 ---
-
 
