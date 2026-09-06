@@ -98,15 +98,10 @@ I build backend systems that **scale** — engineering Django-powered REST APIs,
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sankar26-py&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sankar26-py&theme=transparent&hide_border=true&layout=compact&langs_count=6" height="160"/>
-</p>
+![Sankar's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Sankar26-py&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sankar26-py&theme=transparent&hide_border=true&layout=compact&langs_count=6)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sankar26-py&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
-</p>
+![Streak](https://streak-stats.demolab.com/?user=Sankar26-py&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 ---
 
